@@ -1,19 +1,3 @@
-/*********************************************************************************
-*  WEB422 – Assignment 3
-*
-*  I declare that this assignment is my own work in accordance with Seneca's
-*  Academic Integrity Policy:
-* 
-*  https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
-* 
-*  Name: Hoda Karimi Student ID: 138611223 Date: 
-* Github: https://github.com/hk522/web422A3.git
-* Render: https://web422a3-yiol.onrender.com
-*
-* Note: I figured that for an unknown reason all my Vercel links turned private so until
-* I can figure out how to make them public again, I'll deploy my code on Render
-*
-********************************************************************************/ 
 
 import useSWR from 'swr';
 import { useState, useEffect } from 'react';
